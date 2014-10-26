@@ -1,0 +1,24 @@
+{
+    "context": "client",
+    "identifier": "com.pa.stuart98.jungletropical",
+    "display_name": "Tropical Jungle Planet Icon",
+    "description": "Replaces the icon for the Tropical planet in the system editor with a more fitting icon.",
+    "author": "Stuart98",
+    "version": "1.1",
+    "signature": "not yet implemented",
+    "priority": 100,
+    "enabled": true,
+    "id": "jungletropical",
+    "icon": "http://pamods.github.io/icons/jungletropical.jpg",
+    "forum": "https://forums.uberent.com/threads/rel-stuart98s-minimods.59559/",
+    "category": [
+        "Planets",
+        "System Editor",
+        "Icons",
+        "Tropical"
+    ],
+    "date": "2014/10/25",
+    "build": "73939",
+    "content_id": "com.pa.stuart98.jungletropical",
+    "store_id": "com.pahub.content.plugin.store.mod.client"
+}
