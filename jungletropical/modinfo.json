@@ -4,7 +4,7 @@
     "display_name": "Tropical Jungle Planet Icon",
     "description": "Replaces the icon for the Tropical planet in the system editor with a more fitting icon.",
     "author": "Stuart98",
-    "version": "1.1",
+    "version": "1.2",
     "signature": "not yet implemented",
     "priority": 100,
     "enabled": true,
@@ -17,8 +17,8 @@
         "Icons",
         "Tropical"
     ],
-    "date": "2014/10/25",
-    "build": "73939",
+    "date": "2015/02/04",
+    "build": "77725",
     "content_id": "com.pa.stuart98.jungletropical",
     "store_id": "com.pahub.content.plugin.store.mod.client"
 }
